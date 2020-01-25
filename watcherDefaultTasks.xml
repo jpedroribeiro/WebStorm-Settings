@@ -2,7 +2,7 @@
   <component name="ApplicationTasksOptions">
     <global-watchers>
       <TaskOptions>
-        <option name="arguments" value="--write $FilePathRelativeToProjectRoot$" />
+        <option name="arguments" value="--write $FilePathRelativeToProjectRoot$ --noglob" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
