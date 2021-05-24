@@ -1,0 +1,20 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="accentColor" value="ff9800" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="-52035c61:163edfa6750:-7fff" />
+    <option name="version" value="5.2.0" />
+  </component>
+</application>

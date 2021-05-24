@@ -1,0 +1,27 @@
+<templateSet group="Zen HTML">
+  <template name="jsx" value="{/*language=LESS*/}&#10;&lt;style jsx&gt;{`&#10;$VAR0$&#10;`}&lt;/style&gt;" description="&lt;style jsx&gt;..." toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="!!!" value="&lt;!doctype html&gt;" description="&lt;!doctype html&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="!!!4t" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;" description="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="!!!4s" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01//EN&quot; &quot;http://www.w3.org/TR/html4/strict.dtd&quot;&gt;" description="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01//EN&quot; &quot;http://www.w3.org/TR/html4/strict.dtd&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="!!!xt" value="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;" description="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="!!!xs" value="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Strict//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&quot;&gt;" description="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Strict//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="!!!xxs" value="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.1//EN&quot; &quot;http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd&quot;&gt;" description="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.1//EN&quot; &quot;http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+</templateSet>

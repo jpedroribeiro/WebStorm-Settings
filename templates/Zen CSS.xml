@@ -1,0 +1,26 @@
+<templateSet group="Zen CSS">
+  <template name="@tablet" value="@media screen and (min-width: 768px) {&#10;$VAR0$&#10;}" description="mobile media query" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="@desktop" value="@media screen and (min-width: 1024px) {&#10;    $VAR0$&#10;}" description="desktop media query" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="var" value="var(--$VAR0$)" description="css custom property" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="calc" value="calc(var(--base-unit) * $VAR0$)" description="calc with var" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
